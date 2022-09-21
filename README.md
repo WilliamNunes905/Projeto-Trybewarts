@@ -2,7 +2,7 @@
 
 <img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Imagem.png" alt="imagem.png" style="max-width: 90%;">
 
-# ✏️  <h2>Esse projeto tem objetivo de:</h2>
+## ✏️  Esse projeto tem objetivo de:
 
  ▫️Desenvolver uma página de formulário da Escola de Magia de Trybewarts <br>
 
