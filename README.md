@@ -4,7 +4,7 @@
 
 # ✏️  Esse projeto tem objetivo de:
 
- ▫️desenvolver uma página de formulário da Escola de Magia de Trybewarts<br>
+ ▫️desenvolver uma página de formulário da Escola de Magia de Trybewarts <br>
 
 ▫️Organização do seu código. Quebre seu código em funções. Prefira funções pequenas, simples e bem definidas a funções grandes e complexas.<br>
 
