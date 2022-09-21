@@ -1,6 +1,6 @@
 # Repositório do projeto Trybewarts! 🏰️
 
-<img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Imagem%20projeto.png" alt="imagem.png" style="max-width: 90%;">
+<img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Imagem.png" alt="imagem.png" style="max-width: 90%;">
 
 # ✏️  Esse projeto tem objetivo de:
 
