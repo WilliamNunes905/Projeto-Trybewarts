@@ -6,11 +6,10 @@
 
  ▫️Desenvolver uma página de formulário da Escola de Magia de Trybewarts <br>
 
-▫️Organização do seu código. Quebrar o código em funções. Prefira funções pequenas, simples e bem definidas .<br>
+▫️Organização do código. Quebrar o código em funções. Priorizando funções pequenas, simples e bem definidas .<br>
 
-▫️Capacidade de estruturar corretamente uma página HTML. Utilize as tags corretas nos contextos apropriados. <br>
+▫️Capacidade de estruturar corretamente uma página HTML. Utilizando as tags corretas nos contextos apropriados. <br>
 
-▫️A estruturação do seu CSS. Combinar e agrupar classes CSS bem definidas.<br>
 
 
 <br>
