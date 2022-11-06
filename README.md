@@ -1,6 +1,6 @@
 # Repositório do projeto Trybewarts! 🏰️
 
-<img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Captura%20de%20tela%20de%202022-11-06%2014-49-20.png" alt="imagem.png" style="max-width: 100%;">
+<img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Captura%20de%20tela%20de%202022-11-06%2014-52-31.png" alt="imagem.png" style="max-width: 100%;">
 
 ## ✏️  Esse projeto tem objetivo de:
 
