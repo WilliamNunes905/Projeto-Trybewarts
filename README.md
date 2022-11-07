@@ -2,15 +2,17 @@
 
 <img src="https://github.com/WilliamNunes905/Projeto-Trybewarts/blob/main/Captura%20de%20tela%20de%202022-11-06%2018-26-33.png" alt="imagem.png" style="max-width: 100%;">
 
-## ✏️  Esse projeto tem objetivo de:
+<h2>Boas vindas ao repositório do projeto Trybewarts Wizarding School! 🧙‍♂️️</h2>
 
- ▫️Desenvolver uma página de formulário da Escola de Magia de Trybewarts <br>
+<h3>O que deverá ser desenvolvido:</h3>
+▫️ Neste projeto, você irá desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. O tema desse projeto é baseado na obra 'Harry Potter'
 
-▫️Organização do código. Quebrar o código em funções. Priorizando funções pequenas, simples e bem definidas .<br>
+<h3>Habilidades :</h3>
 
-▫️Capacidade de estruturar corretamente uma página HTML. Utilizando as tags corretas nos contextos apropriados. <br>
+▫️ Criar formulários em HTML;
 
+▫️ Utilizar CSS Flexbox para criar layouts flexíveis;
 
+▫️ Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
 
-<br>
-
+▫️ Construir páginas que alteram o seu layout de acordo com a orientação da tela;
