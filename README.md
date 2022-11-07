@@ -7,6 +7,8 @@
 <h3>O que deverá ser desenvolvido:</h3>
 ▫️ Neste projeto, você irá desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. O tema desse projeto é baseado na obra 'Harry Potter'
 
+<br>
+
 <h3>Habilidades :</h3>
 
 ▫️ Criar formulários em HTML;
